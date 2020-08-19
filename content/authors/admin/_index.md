@@ -34,7 +34,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/ellenwebborn
 - icon: linkedin
-  icon_pack: fa
+  icon_pack: fab
   link: https://www.linkedin.com/in/ewebborn
 - icon: github
   icon_pack: fab
