@@ -29,9 +29,6 @@ featured: false
 image: 
   caption: "Self-consumption (as a percentage of generation) against monthly generation divided by monthly demand for each country. Each circle represents one month’s totals for one PV system. Circle colour indicates the proportion of demand consumed during the daytime (10:00 – 16:00)."
   preview_only: true
-header:
-  image: "headers/frequency-counts-in-SCD-baselines.png"
-  caption: "Scatterplots of variance versus sample mean baseline frequency for event count outcomes, with marginal distributions of mean baseline frequency. Left-hand plots (purple) depict positive-valence outcomes. Right-hand plots (green) depict negative-valence outcomes. Each point represents one data series, with size corresponding to baseline phase length. Dashed lines represent unit slopes, where variance is equal to mean. Blue curves depict local linear regressions of variance as a function of mean. Dots along the horizontal axis indicate the quartiles of the distribution."
 projects: []
 tags: 
 - self-consumption
