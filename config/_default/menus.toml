@@ -13,10 +13,10 @@
   url = "#posts"
   weight = 2
 
-[[main]]
-  name = "Working papers"
-  url = "#working-papers"
-  weight = 3
+#[[main]]
+#  name = "Working papers"
+#  url = "#working-papers"
+#  weight = 3
   
 [[main]]
   name = "Publications"
@@ -28,23 +28,23 @@
   url = "/talk/"
   weight = 5
 
-[[main]]
-  name = "Software"
-  url = "#software"
-  weight = 6
+#[[main]]
+#  name = "Software"
+#  url = "#software"
+#  weight = 6
 
 
-[[main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 7
+#[[main]]
+#  name = "Teaching"
+#  url = "#teaching"
+#  weight = 7
 
 [[main]]
   name = "Contact"
   url = "#contact"
   weight = 8
   
-[[main]]
-  name = "Topics"
-  url = "#tags"
-  weight = 9
+#[[main]]
+#  name = "Topics"
+#  url = "#tags"
+#  weight = 9
