@@ -42,9 +42,6 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=5KwlGj0AAAAJ&hl=en
-- icon: orcid
-  icon_pac: ai
-  link: http://orcid.org/0000-0002-3383-746X
 superuser: true
 user_groups:
 - Researchers
