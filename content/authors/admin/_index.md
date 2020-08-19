@@ -4,42 +4,53 @@ authors:
 bio: 
 education:
   courses:
-  - course: PhD in Statistics
-    institution: Northwestern University
-    year: 2013
-  - course: BA in Economics
-    institution: Boston College
-    year: 2003
-email: "pusto@austin.utexas.edu"
+  - course: PhD in Mathematics and Complexity Science
+    institution: University of Warwick
+    year: 2018
+  - course: MSc in Complexity Science
+    institution: University of Warwick
+    year: 2012
+  - course: BSc in Mathematics with Intercalated Year
+    institution: University of Warwick
+    year: 2011
+email: "e.webborn@ucl.ac.uk"
 interests:
-- Meta-analysis
-- Causal inference
-- Robust statistical methods
-- Education statistics
-- Single case experimental designs
-name: James E. Pustejovsky
+- Smart meter data
+- Machine learning
+- Power system operation and flexibility
+- Demand response
+- Energy consumption patterns
+- Fuel poverty
+name: Ellen Webborn
 organizations:
-- name: University of Texas at Austin
+- name: University College London
   url: ""
-role: Assistant Professor
+role: Research Associate
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:pusto@austin.utexas.edu'
+  link: 'mailto:e.webborn@ucl.ac.uk'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/jepusto
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=vrPDTgsAAAAJ
+  link: https://twitter.com/ellenwebborn
+- icon: linkedin
+  icon_pack: fa
+  link: https://www.linkedin.com/in/ewebborn
 - icon: github
   icon_pack: fab
-  link: https://github.com/jepusto
+  link: https://github.com/ellenwebborn
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=5KwlGj0AAAAJ&hl=en
+- icon: orcid
+  icon_pac = ai
+  link: http://orcid.org/0000-0002-3383-746X
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-I am a statistician and assistant professor in the [College of Education](https://education.utexas.edu/) at the [University of Texas at Austin](https://www.utexas.edu/), where I teach in the [Educational Psychology Department](https://education.utexas.edu/departments/educational-psychology) and the [graduate program in Quantitative Methods](https://education.utexas.edu/departments/educational-psychology/graduate-programs/quantitative-methods). My research involves developing statistical methods for problems in education, psychology, and other areas of social science research, with a focus on methods related to research synthesis and meta-analysis. 
+I am a Research Associate in Data Science and End Use Energy Demand at the [UCL Energy Institute](https://www.ucl.ac.uk/bartlett/energy/) working on the [Smart Energy Research Lab (SERL)](https://www.serl.ac.uk) project - developing a database of smart meter (and linked contextual) data for UK-based researchers.
+
 

@@ -41,7 +41,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "University of Texas at Austin"
+org_name = "University College London (UCL)"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -92,16 +92,16 @@ codefolding_nobutton = false
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "pusto@austin.utexas.edu"
-phone = "512 471 0683"
+email = "e.webborn@ucl.ac.uk"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1912 Speedway, M/S D5800", city = "Austin", region = "TX", postcode = "78712", country = "United States", country_code = "US"}
+address = {street = "14 Upper Woburn Place", city = "London", region = "", postcode = "WC1H 0NN", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "30.282891", longitude = "-97.738795"}
+coordinates = {latitude = "51.526763", longitude = "-0.129792"}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -116,7 +116,7 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/jepusto"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/ellenwebborn"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -131,7 +131,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "jepusto"
+twitter = "ellenwebborn"
 
 ############################
 ## Regional Settings
@@ -144,7 +144,7 @@ date_format = "2006-01-02"
 time_format = "3:04 PM"
 
 # Address format (choose from the [address_formats] list below or add you own to the list).
-address_format = "en-us"
+address_format = "en-gb"
 
 ############################
 ## Advanced
@@ -222,15 +222,15 @@ plugins_js  = []
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 1
+  engine = 0
 
   # Which page types are commentable?
   commentable = {page = false, post = true, docs = false, project = false, publication = true, talk = false}
 
   # Configuration of Disqus.
   [comments.disqus]
-    shortname = "jepusto"  # Paste the shortname from your Disqus dashboard.
-    show_count = true  # Show comment count in page header? (true/false)
+    shortname = ""  # Paste the shortname from your Disqus dashboard.
+    show_count = false  # Show comment count in page header? (true/false)
 
   # Configuration of Commento.
   [comments.commento]
