@@ -1,33 +1,29 @@
 ---
-date: "2020-03-26T00:00:00"
+date: "2019-07-15T00:00:00"
 publication_types:
 - "2"
 authors:
-- Daniel M. Swan
 - admin
-- S. Natasha Beretvas
-publishDate: "2020-03-26T00:00:00"
-title: "The impact of response-guided designs on count outcomes in single-case experimental design baselines"
-publication: "_Evidence-Based Communication Assessment and Intervention_, forthcoming"
-abstract: "In single-case experimental design (SCED) research, researchers often choose when to start treatment based on whether the baseline data collected so far are stable, using what is called a response-guided design. There is evidence that response-guided designs are common, and researchers have described a variety of criteria for assessing stability. With many of these criteria, making judgments about stability could yield data with limited variability, which may have consequences for statistical inference and effect size estimates. However, little research has examined the impact of response-guided design on the resulting data. Drawing on both applied and methodological research, we describe several algorithms as models for response-guided design. We use simulation methods to assess how using a response-guided design impacts the baseline data pattern. The simulations generate baseline data in the form of frequency counts, a common type of outcome in SCEDs. Most of the response-guided algorithms we identified lead to baselines with approximately unbiased mean levels, but nearly all of them lead to underestimates in the baseline variance. We discuss implications for the use of response-guided designs in practice and for the plausibility of specific algorithms as representations of actual research practice."
+- Tadj Oreszczyn
+publishDate: "2019-07-15T00:00:00"
+title: "Champion the energy data revolution"
+publication: "_Nature Energy_, Vol 4, 624-626(2019)"
+abstract: "Access to rich, high-quality datasets is widely considered to be vital for energy research and public policy. While smart metering has the potential to revolutionize access to energy consumption data, coordinated efforts are needed from government, funding bodies and researchers to overcome the barriers to data access."
 featured: false
 image: 
-  caption: "Cumulative percentage of stable baselines at a given number of observations for the independent Poisson case, up to 20 observations"
+  caption: "Credit: Living room background image, Arcaid Images/Alamy Stock Photo; meter and hand image, MartinPrescott/E+/Getty"
   focal_point: "Center"
 projects: []
-tags: 
-- single-case design
-- response-guided design
 
 slides: 
 summary: 
 links:
 - name: Journal
-  url: https://doi.org/10.1080/17489539.2020.1739048
+  url: https://www.nature.com/articles/s41560-019-0432-0?utm_campaign=socialtraffic&utm_medium=social&utm_source=NEtwitter
 url_preprint: 
-url_code: "https://osf.io/f8bmu/"
+url_code: ""
 url_dataset: 
-url_pdf: 
+url_pdf: https://www.nature.com/articles/s41560-019-0432-0.epdf?author_access_token=hyasCBoVX2diXUDtsDou0dRgN0jAjWel9jnR3ZoTv0OsSpshs5X8k_NC9YWDW21GpMJwLvlgkjUBiOkfFcskZiNAoNG2Za1IK32oT8jQJ3l8sXtuCC3aQKxWNnHXyY331slAQIoeLoC1ClRRuZcRSg%3D%3D 
 url_poster: ""
 url_project: ""
 url_slides: ""
