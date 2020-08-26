@@ -1,6 +1,7 @@
 ---
 title: "Video abstracts: What? Why? How?"
-authors: admin
+authors: 
+- admin
 date: "2020-08-19"
 number_sections: false
 codefolding_nobutton: false
