@@ -5,7 +5,7 @@ date: "2020-08-19"
 number_sections: false
 codefolding_nobutton: false
 disable_codefolding: true
-slug: 
+slug: video-abstracts-what-why-how
 bibliography: 
 link-citations: true
 categories: []
@@ -16,12 +16,6 @@ header:
   caption: ''
   image: ''
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-library(blogdown)
-```
-
 
 As an early-career researcher, building up a decent publication record can feel like a real battle. By the time you've finished your work and written it up according to your chosen journal's particular specifications, the last thing you might feel like doing is spending more time getting it publication-ready. But if you can still bear to look at it and can afford a small submission delay then creating a video abstract is one way of reaching out to potential readers to capture their attention. In this post I explain the basics of video abstracts and share some of the insights I picked up when I gave it a go. 
 
