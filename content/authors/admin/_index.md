@@ -48,6 +48,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Research Associate in Data Science and End Use Energy Demand at the [UCL Energy Institute](https://www.ucl.ac.uk/bartlett/energy/) working on the [Smart Energy Research Lab (SERL)](https://www.serl.ac.uk) project - developing a database of smart meter (and linked contextual) data for UK-based researchers.
+I am a Research Associate in Data Science and End Use Energy Demand at the [UCL Energy Institute](https://www.ucl.ac.uk/bartlett/energy/) working on the [Smart Energy Research Lab (SERL)](https://www.serl.ac.uk) project - developing a longitudinal smart meter dataset (with contextual data) for UK-based researchers.
 
 
