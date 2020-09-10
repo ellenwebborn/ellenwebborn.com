@@ -32,7 +32,7 @@ and would like the answers in a really fun, accessible, interesting video (with 
 
 Simon does a great job of comparing nuclear and renewables on key metrics such as investment costs, lifetime carbon emissions, cost per kWh, stability and suitability for the developing world (among others). The video also goes into more technical (but no less accessible) topics such as baseload and how it's changing, electricity system inertia, and flexibility.
 
-<iframe src="https://www.youtube.com/watch?v=k13jZ9qHJ5U&feature=youtu.be" width="700" height="394" frameborder="0" style="margin-bottom: 2em;" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/k13jZ9qHJ5U" width="700" height="394" frameborder="0" style="margin-bottom: 2em;" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 If you're interested in learning more about electricity system flexibility, in particular about how devices like fridges could provide a flexibility service to the grid, then you might be interested in my PhD thesis and related [publications](https://www.ellenwebborn.com/publication/).
 
