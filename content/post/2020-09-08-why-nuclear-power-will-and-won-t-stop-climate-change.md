@@ -21,7 +21,10 @@ projects: []
 ---
 
 
-I was recently interviewed by science communicator [Simon Clark](https://www.simonoxfphys.com/) for his latest science video **"Why nuclear power will (and won't) stop climate change"** (below). The final result is a brilliant deep dive into nuclear power, and the nuclear _versus_ renewables decarbonisation debate. If you've ever wondered 
+I was recently interviewed by science communicator [Simon Clark](https://www.simonoxfphys.com/) for his latest science video **"Why nuclear power will (and won't) stop climate change"** (below). The final result is a brilliant deep dive into nuclear power, and the nuclear _versus_ renewables decarbonisation debate. 
+
+
+If you've ever wondered 
 
 - Is nuclear power safe?
 - Is it the best way to generate all our low-carbon electricity? _Or_
@@ -30,7 +33,9 @@ I was recently interviewed by science communicator [Simon Clark](https://www.sim
 and would like the answers in a really fun, accessible, interesting video (with excellent use of clips from the Simpsons) then this is for you.
 
 
-Simon does a great job of comparing nuclear and renewables on key metrics such as investment costs, lifetime carbon emissions, cost per kWh, stability and suitability for the developing world (among others). The video also goes into more technical (but no less accessible) topics such as baseload and how it's changing, electricity system inertia, and flexibility.
+Simon does a great job of comparing nuclear and renewables on key metrics such as investment costs, lifetime carbon emissions, cost per kWh, stability and suitability for the developing world (among others). 
+
+The video also goes into more technical (but no less accessible) topics such as baseload and how it's changing, electricity system inertia, and flexibility.
 
 <iframe src="https://www.youtube.com/embed/k13jZ9qHJ5U" width="700" height="394" frameborder="0" style="margin-bottom: 2em;" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
