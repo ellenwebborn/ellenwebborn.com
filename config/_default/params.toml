@@ -215,6 +215,7 @@ plugins_js  = []
   post_view = 2
   publication_view = 2
   talk_view = 2
+  rusergroup_view = 2
 
 ############################
 ## Comments
@@ -227,7 +228,7 @@ plugins_js  = []
   engine = 1
 
   # Which page types are commentable?
-  commentable = {page = false, post = true, docs = false, project = false, publication = true, talk = false}
+  commentable = {page = false, post = true, docs = false, project = false, publication = true, talk = false, rusergroup = true}
 
   # Configuration of Disqus.
   [comments.disqus]
