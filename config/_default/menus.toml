@@ -25,7 +25,7 @@
   
 [[main]]
   name = "R user group"
-  url = "#rusergroup"
+  url = "/rusergroup"
   weight = 5
 
 #[[main]]
