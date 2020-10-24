@@ -1,7 +1,7 @@
 +++
 # Projects widget.
-widget = "rusergroup"
-active = false
+widget = "pages"
+active = true
 date = 2020-10-05T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
@@ -11,6 +11,11 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 5
 
+[content]
+  page_type = "rusergroup"
+  count = 5
+  offset = 0
+  order = "desc"
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
