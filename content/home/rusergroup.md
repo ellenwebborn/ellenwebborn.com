@@ -1,60 +1,67 @@
 +++
-# Projects widget.
-widget = "rusergroup"
-active = false
-date = 2020-10-05T00:00:00
+# The section for the R user group.
 
-# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 25  # Order that this section will appear.
+
 title = "R User Group"
 subtitle = ""
 
-# Order that this section will appear in.
-weight = 5
+[content]
+  # Page type to display. E.g. post, talk, or publication.
+  page_type = "rusergroup"
+  
+  # Choose how much pages you would like to display (0 = all pages)
+  count = 5
+  
+  # Choose how many pages you would like to offset by
+  offset = 0
 
-# Content.
-# Display content from the following folder.
-# For example, `folder = "project"` displays content from `content/project/`.
-# folder = "teaching"
+  # Page order. Descending (desc) or ascending (asc) date.
+  order = "desc"
 
-# View.
-# Customize how projects are displayed.
-# Legend: 0 = list, 1 = cards.
-# view = 1
+  # Filter posts by a taxonomy term.
+  [content.filters]
+    tag = ""
+    category = ""
+    publication_type = ""
+    author = ""
+    exclude_featured = true
+  
+[design]
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view = 2
+  
+[design.background]
+  # Apply a background color, gradient, or image.
+  #   Uncomment (by removing `#`) an option to apply it.
+  #   Choose a light or dark text color by setting `text_color_light`.
+  #   Any HTML color name or Hex value is valid.
+    
+  # Background color.
+  # color = "navy"
+  
+  # Background gradient.
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
+  
+  # Background image.
+  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
+  # Text color (true=light or false=dark).
+  # text_color_light = true  
+  
+[advanced]
+ # Custom CSS. 
+ css_style = ""
+ 
+ # CSS class.
+ css_class = ""
 +++
-
-I set up the **bseeR user group** in 2019 as a group for members of the Bartlett School of Environment, Energy and Resources [(BSEER)](https://www.ucl.ac.uk/bartlett/bartlett-school-environment-energy-and-resources) who code with R. With the arrival of COVID-19 we moved online and have now opened up the group to the wider R community. 
-
-We currently meet every 4 weeks on Thursdays at 1-2pm UK time. The idea is to create a friendly space for R users to come together, listen to a talk (typically 20-40 minutes) and ask questions. We aim to have a variety of talks to benefit beginners and more advanced R users. 
-
-
-## 2020/21 talks (1pm every 4th Thursday)
-
--  2020-10-01
-*Teaching R remotely*  [Aryton Bourn](https://www.linkedin.com/in/ayrton-bourn/?originalSubdomain=uk)
-
-- 2020-10-29
-*Working with data: introducing and comparing data.table and dplyr*  [Ellen Webborn](https://www.ellenwebborn.com) & [Jonno Bourne](https://www.ucl.ac.uk/bartlett/energy/people/mphilphd-students/jonathan-bourne)
-
-- 2020-11-26
-*Versioning code with Git*   [Kenan Direk](https://www.linkedin.com/in/kenan-direk/?originalSubdomain=uk)
-
-
-*2021 talks TBA* 
-
-
-## 2019/20 talks
- - **Introduction to RMarkdown** [Ellen Webborn](https://www.ellenwebborn.com)
- - **Introduction to Spatial Analysis and Mapping with R** [Connor Galbraith](https://www.linkedin.com/in/connorgalbraith/?originalSubdomain=uk)
- - **Tips and tricks for designing effective figures in base R** [Scott Orr](https://www.ucl.ac.uk/bartlett/heritage/people/scott-allan-orr)
- - **Optimising algorithms** [Jonno Bourne](https://www.ucl.ac.uk/bartlett/energy/people/mphilphd-students/jonathan-bourne)
- - **Regression in R and general good practice** [Patrick de Mars](https://www.ucl.ac.uk/bartlett/energy/people/mphilphd-students/patrick-de-mars)
- - **Interactive Visualisations in R** [Despina Manouseli](https://www.ucl.ac.uk/bartlett/energy/people/dr-despina-manouseli)
- - **How I use R (with a focus on dplyr)** [Harry Kennard](https://www.ucl.ac.uk/bartlett/energy/people/harry-kennard)
- - **Cluster Analysis in R with Factoextra and NbClust** [Andrew Mitchell](https://www.ucl.ac.uk/bartlett/environmental-design/andrew-mitchell)
- 
- 
-## Get involved
-
-To find out more, join the mailing list, offer to give a talk, or provide feedback please send me an email (e.webborn@ucl.ac.uk)
- 
