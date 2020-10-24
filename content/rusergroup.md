@@ -23,31 +23,35 @@ weight = 5
 
 +++
 
-I set up the **bseeR user group** in 2019 as a group for members of the Bartlett School of Environment, Energy and Resources [(BSEER)](https://www.ucl.ac.uk/bartlett/bartlett-school-environment-energy-and-resources) who code with R. With the arrival of COVID-19 we moved online and have now opened up the group to the wider R community at UCL and beyond.
+The **bseeR user group** is a friendly group for R users to meet, hear a talk and discuss R questions. Originally set up in 2019 for staff and postgrad students at the Bartlett School of Environment, Energy and Resources [(BSEER)](https://www.ucl.ac.uk/bartlett/bartlett-school-environment-energy-and-resources), we've recently opened up the group to the wider R community at UCL and beyond. 
 
-We currently meet every 4 weeks on Thursdays at 1-2pm UK time. The idea is to create a friendly space for R users to come together, listen to a talk (typically 20-40 minutes) and ask questions. We aim to have a variety of talks to benefit beginners and more advanced R users. 
+We currently meet every 4 weeks on Thursdays at 1-2pm UK time. The idea is to create a friendly space for R users to come together, listen to a talk (typically 20-40 minutes) and ask questions. We aim to have a variety of talks to benefit beginners and more advanced R users. To join the group email e.webborn@ucl.ac.uk
 
 
 ## 2020/21 talks (1pm every 4th Thursday)
 
--  2020-10-01
-*Teaching R remotely*  [Aryton Bourn](https://www.linkedin.com/in/ayrton-bourn/?originalSubdomain=uk)
+Date (2020) | Title | Speaker(s)
+-- | -- | --
+1st Oct| *Teaching R remotely* | [Aryton Bourn](https://www.linkedin.com/in/ayrton-bourn/?originalSubdomain=uk)
+29th Oct| *Working with data: Introducing and comparing data.table and dplyr* | [Ellen Webborn](https://www.ellenwebborn.com) & [Jonno Bourne](https://www.ucl.ac.uk/bartlett/energy/people/mphilphd-students/jonathan-bourne)
+26th Nov|*Versioning code with Git*|[Kenan Direk](https://www.linkedin.com/in/kenan-direk/?originalSubdomain=uk)
 
-- 2020-10-29
-*Working with data: Introducing and comparing data.table and dplyr*  [Ellen Webborn](https://www.ellenwebborn.com) & [Jonno Bourne](https://www.ucl.ac.uk/bartlett/energy/people/mphilphd-students/jonathan-bourne)
+Date (2021) | Title | Speaker(s)
+-- | -- | --
+21st Jan| *tba* | 
+18th Feb| *tba* | 
+18th Mar| *tba* | 
+15th Apr (Easter break)| *tba* | 
+13th May | *tba* | 
+10th Jun| *tba* | 
 
-- 2020-11-26
-*Versioning code with Git*   [Kenan Direk](https://www.linkedin.com/in/kenan-direk/?originalSubdomain=uk)
-
-
-*2021 talks TBA* 
 
 
 ## 2019/20 talks
  - *Introduction to RMarkdown* [Ellen Webborn](https://www.ellenwebborn.com)
  - *Introduction to Spatial Analysis and Mapping with R* [Connor Galbraith](https://www.linkedin.com/in/connorgalbraith/?originalSubdomain=uk)
  - *Tips and tricks for designing effective figures in base R* [Scott Orr](https://www.ucl.ac.uk/bartlett/heritage/people/scott-allan-orr)
- - *Optimising algorithms** [Jonno Bourne](https://www.ucl.ac.uk/bartlett/energy/people/mphilphd-students/jonathan-bourne)
+ - *Optimising algorithms* [Jonno Bourne](https://www.ucl.ac.uk/bartlett/energy/people/mphilphd-students/jonathan-bourne)
  - *Regression in R and general good practice* [Patrick de Mars](https://www.ucl.ac.uk/bartlett/energy/people/mphilphd-students/patrick-de-mars)
  - *Interactive Visualisations in R* [Despina Manouseli](https://www.ucl.ac.uk/bartlett/energy/people/dr-despina-manouseli)
  - *How I use R (with a focus on dplyr)* [Harry Kennard](https://www.ucl.ac.uk/bartlett/energy/people/harry-kennard)
