@@ -27,13 +27,15 @@ The **bseeR user group** is a friendly group for R users to meet, hear a talk an
 
 We currently meet every 4 weeks on Thursdays at 1-2pm UK time. The idea is to create a friendly space for R users to come together, listen to a talk (typically 20-40 minutes) and ask questions. We aim to have a variety of talks to benefit beginners and more advanced R users. To join the group email e.webborn@ucl.ac.uk
 
+We have a [Github repository](https://github.com/ellenwebborn/bseeR_user_group) for sharing materials from the talks. It's still very new and more talk materials will be added in due course. 
+
 
 ## 2020/21 talks (1pm every 4th Thursday)
 
 Date (2020) | Title | Speaker(s)
 -- | -- | --
 1st Oct| *Teaching R remotely* | [Aryton Bourn](https://www.linkedin.com/in/ayrton-bourn/?originalSubdomain=uk)
-29th Oct| *Working with data: Introducing and comparing data.table and dplyr* | [Ellen Webborn](https://www.ellenwebborn.com) & [Jonno Bourne](https://www.ucl.ac.uk/bartlett/energy/people/mphilphd-students/jonathan-bourne)
+29th Oct| [*Working with data: Introducing and comparing data.table and dplyr*](https://github.com/ellenwebborn/bseeR_user_group) | [Ellen Webborn](https://www.ellenwebborn.com) & [Jonno Bourne](https://www.ucl.ac.uk/bartlett/energy/people/mphilphd-students/jonathan-bourne)
 26th Nov|*Versioning code with Git*|[Kenan Direk](https://www.linkedin.com/in/kenan-direk/?originalSubdomain=uk)
 
 Date (2021) | Title | Speaker(s)
