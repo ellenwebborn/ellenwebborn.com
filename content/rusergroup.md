@@ -40,12 +40,15 @@ Date (2020) | Title | Speaker(s)
 
 Date (2021) | Title | Speaker(s)
 -- | -- | --
-21st Jan| *tba* | 
+28th Jan\*| *Getting help in R* | [Ella Kaye](ellakaye.rbind.io)
 18th Feb| *The graph is always greener: Making (better) use of colour in R* | [Scott Orr](https://www.ucl.ac.uk/bartlett/heritage/people/scott-allan-orr)
 18th Mar| *tba* | 
 15th Apr (Easter break)| *tba* | 
 13th May | *tba* | 
 10th Jun| *tba* | 
+
+\* Delayed by one week due to the [rstudio::global conference](https://rstudio.com/conference/)
+
 
 
 
