@@ -36,18 +36,18 @@ Date (2020) | Title | Speaker(s)
 -- | -- | --
 1st Oct| *Teaching R remotely* | [Aryton Bourn](https://www.linkedin.com/in/ayrton-bourn/?originalSubdomain=uk)
 29th Oct| [*Working with data: Introducing and comparing data.table and dplyr*](https://github.com/ellenwebborn/bseeR_user_group) | [Ellen Webborn](https://www.ellenwebborn.com) & [Jonno Bourne](https://www.ucl.ac.uk/bartlett/energy/people/mphilphd-students/jonathan-bourne)
-26th Nov|*Versioning code with Git*|[Kenan Direk](https://www.linkedin.com/in/kenan-direk/?originalSubdomain=uk)
+26th Nov| [*Versioning code with Git*](https://github.com/IHI-Code-Club/git/blob/master/2019-12-12_CC_Git-GitHub_Christmas_Special.pdf) |[Kenan Direk](https://www.linkedin.com/in/kenan-direk/?originalSubdomain=uk)
 
 Date (2021) | Title | Speaker(s)
 -- | -- | --
-28th Jan\*| *Getting help in R* | [Ella Kaye](ellakaye.rbind.io)
+28th Jan| [*Getting help in R*\*](https://github.com/EllaKaye/Rladies-Coventry-getting-help-in-R) | [Ella Kaye](ellakaye.rbind.io)
 18th Feb| *The graph is always greener: Making (better) use of colour in R* | [Scott Orr](https://www.ucl.ac.uk/bartlett/heritage/people/scott-allan-orr)
 18th Mar| *tba* | 
 15th Apr (Easter break)| *tba* | 
 13th May | *tba* | 
 10th Jun| *tba* | 
 
-\* Delayed by one week due to the [rstudio::global conference](https://rstudio.com/conference/)
+\* Slides say RLadies Coventry but otherwise they're the same
 
 
 
