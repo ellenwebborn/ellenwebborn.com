@@ -27,7 +27,7 @@ The **bseeR user group** is a friendly group for R users to meet, hear a talk an
 
 We currently meet every 4 weeks on Thursdays at 1-2pm UK time. The idea is to create a friendly space for R users to come together, listen to a talk (typically 20-40 minutes) and ask questions. We aim to have a variety of talks to benefit beginners and more advanced R users. To join the group email e.webborn@ucl.ac.uk
 
-We have a [Github repository](https://github.com/ellenwebborn/bseeR_user_group) for sharing materials from the talks. It's still very new and more talk materials will be added in due course. 
+Some talk materials are in our [Github repository](https://github.com/ellenwebborn/bseeR_user_group). Those that can only be shared with group members will be uploaded where possible to our Microsoft Teams group. Contact me to join the group and get a link to the MS Teams group.
 
 
 ## 2020/21 talks (1pm every 4th Thursday)
@@ -42,9 +42,9 @@ Date (2021) | Title | Speaker(s)
 -- | -- | --
 28th Jan| [*Getting help in R*\*](https://github.com/EllaKaye/Rladies-Coventry-getting-help-in-R) | [Ella Kaye](ellakaye.rbind.io)
 18th Feb| *The graph is always greener: Making (better) use of colour in R* | [Scott Orr](https://www.ucl.ac.uk/bartlett/heritage/people/scott-allan-orr)
-18th Mar| *tba* | 
-15th Apr (Easter break)| *tba* | 
-13th May | *tba* | 
+18th Mar| *tba* | [Bin Chi](https://www.linkedin.com/in/bin-chi-093062165/?originalSubdomain=uk)
+15th Apr | *Multilevel modelling with pretty outputs in R* | [Andrew Mitchell](andrew-mitchell.netlify.app)
+13th May | *tba* | Joanna Wilkin & Andrew Maclachlan
 10th Jun| *tba* | 
 
 \* Slides say RLadies Coventry but otherwise they're the same
