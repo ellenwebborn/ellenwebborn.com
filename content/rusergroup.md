@@ -23,7 +23,7 @@ weight = 5
 
 +++
 
-The **bseeR user group** is a friendly group for R users to meet, hear a talk and discuss R questions. Originally set up in 2019 for staff and postgrad students at the Bartlett School of Environment, Energy and Resources [(BSEER)](https://www.ucl.ac.uk/bartlett/bartlett-school-environment-energy-and-resources), we've recently opened up the group to the wider R community at UCL and beyond. 
+The **UCL R user group** is a friendly group for R users to meet, hear a talk and discuss R questions. Originally set up in 2019 for staff and postgrad students at the Bartlett School of Environment, Energy and Resources [(BSEER)](https://www.ucl.ac.uk/bartlett/bartlett-school-environment-energy-and-resources), we've recently opened up the group to the wider R community at UCL and beyond. 
 
 We currently meet every 4 weeks on Thursdays at 1-2pm UK time. The idea is to create a friendly space for R users to come together, listen to a talk (typically 20-40 minutes) and ask questions. We aim to have a variety of talks to benefit beginners and more advanced R users. To join the group email e.webborn@ucl.ac.uk
 
@@ -42,7 +42,7 @@ Date (2021) | Title | Speaker(s)
 -- | -- | --
 28th Jan| [*Getting help in R*\*](https://github.com/EllaKaye/Rladies-Coventry-getting-help-in-R) | [Ella Kaye](ellakaye.rbind.io)
 18th Feb| *The graph is always greener: Making (better) use of colour in R* | [Scott Orr](https://www.ucl.ac.uk/bartlett/heritage/people/scott-allan-orr)
-18th Mar| *tba* | [Bin Chi](https://www.linkedin.com/in/bin-chi-093062165/?originalSubdomain=uk)
+18th Mar| *Working with large datasets in R* | [Bin Chi](https://www.linkedin.com/in/bin-chi-093062165/?originalSubdomain=uk)
 15th Apr | *Multilevel modelling with pretty outputs in R* | [Andrew Mitchell](andrew-mitchell.netlify.app)
 13th May | *tba* | Joanna Wilkin & Andrew Maclachlan
 10th Jun| *tba* | 
