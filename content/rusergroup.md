@@ -42,7 +42,7 @@ Date (2021) | Title | Speaker(s)
 -- | -- | --
 28th Jan| [*Getting help in R*\*](https://github.com/EllaKaye/Rladies-Coventry-getting-help-in-R) | [Ella Kaye](ellakaye.rbind.io)
 18th Feb| *The graph is always greener: Making (better) use of colour in R* | [Scott Orr](https://www.ucl.ac.uk/bartlett/heritage/people/scott-allan-orr)
-18th Mar| *Working with large datasets in R* | [Bin Chi](https://www.linkedin.com/in/bin-chi-093062165/?originalSubdomain=uk)
+25th Mar| *Working with large datasets in R* | [Bin Chi](https://www.linkedin.com/in/bin-chi-093062165/?originalSubdomain=uk)
 15th Apr | *Multilevel modelling with pretty outputs in R* | [Andrew Mitchell](andrew-mitchell.netlify.app)
 13th May | *tba* | Joanna Wilkin & Andrew Maclachlan
 10th Jun| *tba* | 
