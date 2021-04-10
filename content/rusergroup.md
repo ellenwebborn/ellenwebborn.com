@@ -5,7 +5,7 @@ active = false
 date = 2020-10-05T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "R User Group"
+title = "UCL R User Group"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -22,6 +22,8 @@ weight = 5
 # view = 1
 
 +++
+
+![](img/medium.png)
 
 The **UCL R user group** is a friendly group for R users to meet, hear a talk and discuss R questions. Originally set up in 2019 for staff and postgrad students at the Bartlett School of Environment, Energy and Resources [(BSEER)](https://www.ucl.ac.uk/bartlett/bartlett-school-environment-energy-and-resources), we've recently opened up the group to the wider R community at UCL and beyond. 
 
@@ -42,7 +44,7 @@ Date (2021) | Title | Speaker(s)
 -- | -- | --
 28th Jan| [*Getting help in R*\*](https://github.com/EllaKaye/Rladies-Coventry-getting-help-in-R) | [Ella Kaye](ellakaye.rbind.io)
 18th Feb| *The graph is always greener: Making (better) use of colour in R* | [Scott Orr](https://www.ucl.ac.uk/bartlett/heritage/people/scott-allan-orr)
-25th Mar| *Working with large datasets in R* | [Bin Chi](https://www.linkedin.com/in/bin-chi-093062165/?originalSubdomain=uk)
+25th Mar| [*Working with large datasets in R*](https://bin-chi.github.io/Big-Data/) | [Bin Chi](https://www.linkedin.com/in/bin-chi-093062165/?originalSubdomain=uk)
 15th Apr | *Multilevel modelling with pretty outputs in R* | [Andrew Mitchell](andrew-mitchell.netlify.app)
 13th May | *tba* | Joanna Wilkin & Andrew Maclachlan
 10th Jun| *tba* | 
