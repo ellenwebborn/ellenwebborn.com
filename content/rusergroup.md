@@ -24,8 +24,6 @@ weight = 5
 
 +++
 
-<img src="C:/Users/Ellen Webborn/Documents/R/ellenwebborn.com/content/featured.png" alt="UCL R user group logo" style="height: 100px; width:100px;"/>
-
 The UCL R user group is a friendly group for R users to meet, hear a talk and discuss R questions. Originally set up in 2019 for staff and postgrad students at the Bartlett School of Environment, Energy and Resources [(BSEER)](https://www.ucl.ac.uk/bartlett/bartlett-school-environment-energy-and-resources), we've recently opened up the group to the wider R community at UCL and beyond. 
 
 We currently meet every 4 weeks on Thursdays at 1-2pm UK time. The idea is to create a friendly space for R users to come together, listen to a talk (typically 20-40 minutes) and ask questions. We aim to have a variety of talks to benefit beginners and more advanced R users. To join the group email e.webborn@ucl.ac.uk
@@ -34,7 +32,7 @@ Some talk materials are in our [Github repository](https://github.com/ellenwebbo
 
 ## Announcement: R Project Showcase, Thursday 17th June 2021
 
-We're excited to announce the first [R Project Showcase](https://www.eventbrite.com/e/r-project-showcase-tickets-151500242303) - a free online event showcasing R projects by UCL students and early-career researchers (ECRs). Dr Kirsten McMillan from Dogs Trust will be giving the keynote speech and there'll be prizes for best student/ECR talk in each category. Check out all the details, register to attend and apply to give a talk [here](https://www.eventbrite.com/e/r-project-showcase-tickets-151500242303). We're also running a small competition to award funding to students to attend the useR!2021 conference - details on the R Project Showcase page. Contact myself or co-organiser [Scott Orr](https://www.ucl.ac.uk/bartlett/heritage/people/scott-allan-orr) if you have any queries. Note that this event is part fo the [UCL Festival of Code](https://www.ucl.ac.uk/research/domains/eresearch/developing-technical-skills-good-practice-careers/develop-better-research-software-0#:~:text=The%20Festival%20of%20Code%20will,practice%20and%20support%20career%20development.).
+We're excited to announce the first [R Project Showcase](https://www.eventbrite.com/e/r-project-showcase-tickets-151500242303) - a free online event showcasing R projects by UCL students and early-career researchers (ECRs). Dr Kirsten McMillan from Dogs Trust will be giving the keynote speech and there'll be prizes for best student/ECR talk in each category. Check out all the details, register to attend and apply to give a talk [here](https://www.eventbrite.com/e/r-project-showcase-tickets-151500242303). We're also running a small competition to award funding to students to attend the useR!2021 conference - details on the R Project Showcase page. Contact myself or co-organiser [Scott Orr](https://www.ucl.ac.uk/bartlett/heritage/people/scott-allan-orr) if you have any queries. Note that t dohis event is part fo the [UCL Festival of Code](https://www.ucl.ac.uk/research/domains/eresearch/developing-technical-skills-good-practice-careers/develop-better-research-software-0#:~:text=The%20Festival%20of%20Code%20will,practice%20and%20support%20career%20development.).
 
 
 ## 2020/21 talks (1pm every 4th Thursday)
