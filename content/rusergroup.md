@@ -49,7 +49,7 @@ Date (2021) | Title | Speaker(s)
 18th Feb| *The graph is always greener: Making (better) use of colour in R* | [Scott Orr](https://www.ucl.ac.uk/bartlett/heritage/people/scott-allan-orr)
 25th Mar| [*Working with large datasets in R*](https://bin-chi.github.io/Big-Data/) | [Bin Chi](https://www.linkedin.com/in/bin-chi-093062165/?originalSubdomain=uk)
 15th Apr | *Multilevel modelling with pretty outputs in R* | [Andrew Mitchell](andrew-mitchell.netlify.app)
-13th May | *tba* | Joanna Wilkin & Andrew Maclachlan
+13th May | *Innovating with R-Studio for online course delivery: lectures, practicals, thesis templates and more!* | [Joanna Wilkin](https://www.geog.ucl.ac.uk/people/academic-staff/joanna-wilkin) & [Andrew Maclachlan](//andrewmaclachlan.rbind.io)
 10th Jun| *tba* | 
 
 \* Slides say RLadies Coventry but otherwise they're the same
