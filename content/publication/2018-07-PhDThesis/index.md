@@ -26,7 +26,7 @@ links:
 url_preprint: ""
 url_code: ""
 url_dataset: ""
-url_pdf: ""
+url_pdf: "http://wrap.warwick.ac.uk/103934/1/WRAP_Theses_Webborn_2018.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
