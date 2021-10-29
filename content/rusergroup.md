@@ -36,10 +36,11 @@ Date (2021) | Title | Speaker(s)
 -- | -- | --
 28th Oct| *Introducing the group and the organisers* | [Ellen Webborn](https://www.ellenwebborn.com) & [Scott Orr](https://www.ucl.ac.uk/bartlett/heritage/people/scott-allan-orr)
 2nd Nov | *In-person SOCIAL*\* | Organised by Ellen and Scott
-18th Nov| TBA
-16th Dec| TBA
+18th Nov| *Building a stochastic model of COVID-19 outbreaks in homeless accommodation settings* | [Dan Lewer](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30396-9/fulltext)
+16th Dec| *The use of R in developing analytical literacy for policy* | [Ine Steenmans](https://iris.ucl.ac.uk/iris/browse/profile?upi=ISTEE12)
 
 \* 1-2pm Tuesday 26th October at the UCL Student Centre (inside on the [main steps](https://www.breeam.com/case-studies/education/the-student-centre-ucl/). An informal, bring-your-own-lunch get-together, with cake. 
+
 
 ## R Project Showcase, Thursday 17th June 2021
 
