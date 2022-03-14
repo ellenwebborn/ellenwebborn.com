@@ -3,10 +3,18 @@ date: "2021-05-01T00:00:00"
 publication_types:
 - "0"
 authors:
+- Eoghan McKenna
+- Jessica Few
 - admin
-publishDate: ""
+- Ben Anderson
+- Simon Elam
+- David Shipworth
+- Adam Cooper
+- Martin Pullinger
+- Tadj Oreszczyn
+publishDate: "1 March 2022"
 title: "Explaining daily energy demand in British housing using linked smart meter and socio-technical data in a bottom-up statistical model"
-publication: "Energy and Buildings"
+publication: "_Energy and Buildings_ 258 (2022) 111845"
 abstract: "This paper investigates factors associated with variation in daily total (electricity and gas) energy consumption in domestic buildings using linked pre-COVID-19 smart meter, weather, building thermal characteristics, and socio-technical survey data covering appliance ownership, demographics, behaviours, and attitudes for two nested sub-samples of 1418 and 682 British households selected from the Smart Energy Research Laboratory (SERL) Observatory panel.
 
 Linear mixed effects modelling resulted in adjusted R2 between 63% and 80% depending on sample size and combinations of contextual data used. Increased daily energy consumption was significantly associated (p-value < 0.05, VIF < 5) with: households living in buildings with more rooms and bedrooms, that are older, more detached, have air-conditioning, and experience colder (more heating degree days) or less sunny weather; households with more adult occupants, more children, older adult occupants, higher heating temperature setpoints, and that do not try to save energy.
