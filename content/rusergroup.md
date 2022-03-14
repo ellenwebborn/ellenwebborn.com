@@ -39,8 +39,8 @@ Date (2021) | Title | Speaker(s)
 18th Nov| *Building a stochastic model of COVID-19 outbreaks in homeless accommodation settings* | [Dan Lewer](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30396-9/fulltext)
 16th Dec| ~Postponed~
 27th Jan|*The use of R in developing analytical literacy for policy* | [Ine Steenmans](https://iris.ucl.ac.uk/iris/browse/profile?upi=ISTEE12)
-23rd Feb|*Working with data: Introducing and comparing data.table and dplyr* | [Ellen Webborn](https://www.ellenwebborn.com) & [Jonno Bourne](https://www.ucl.ac.uk/bartlett/energy/people/mphilphd-students/jonathan-bourne)
-24th March| *Parallel R*| [Ed Lowther](https://edlowther.github.io/)
+23rd Feb|*Working with data: Introducing and comparing data.table and dplyr* | [Ellen Webborn](https://www.ellenwebborn.com) & [Jonathan Bourne](https://www.ucl.ac.uk/bartlett/energy/people/mphilphd-students/jonathan-bourne)
+24th Mar| *Parallel R*| [Ed Lowther](https://edlowther.github.io/)
 
 
 \* 1-2pm Tuesday 26th October at the UCL Student Centre (inside on the [main steps](https://www.breeam.com/case-studies/education/the-student-centre-ucl/). An informal, bring-your-own-lunch get-together, with cake. 
