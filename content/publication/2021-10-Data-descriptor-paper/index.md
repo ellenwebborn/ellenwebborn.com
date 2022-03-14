@@ -4,6 +4,13 @@ publication_types:
 - "2"
 authors:
 - admin
+- Jessica Few
+- Eoghan McKenna
+- Simon Elam
+- Martin Pullinger
+- Ben Anderson
+- David Shipworth
+- Tadj Oreszczyn
 publishDate: ""
 title: "The SERL Observatory Dataset: Longitudinal Smart Meter Electricity and Gas Data, Survey, EPC and Climate Data for over 13,000 Households in Great Britain"
 publication: "_Energies_, 14(21), 6934"
