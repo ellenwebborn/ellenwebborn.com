@@ -51,7 +51,7 @@ In June 2021 the UCL R User Group held our the first [R Project Showcase](https:
 
 Date (2020) | Title | Speaker(s)
 -- | -- | --
-1st Oct| *Teaching R remotely* | [Aryton Bourn](https://www.linkedin.com/in/ayrton-bourn/?originalSubdomain=uk)
+1st Oct| *Teaching R remotely* | [Ayrton Bourn](https://www.linkedin.com/in/ayrton-bourn/?originalSubdomain=uk)
 29th Oct| [*Working with data: Introducing and comparing data.table and dplyr*](https://github.com/ellenwebborn/bseeR_user_group) | [Ellen Webborn](https://www.ellenwebborn.com) & [Jonno Bourne](https://www.ucl.ac.uk/bartlett/energy/people/mphilphd-students/jonathan-bourne)
 26th Nov| [*Versioning code with Git*](https://github.com/IHI-Code-Club/git/blob/master/2019-12-12_CC_Git-GitHub_Christmas_Special.pdf) |[Kenan Direk](https://www.linkedin.com/in/kenan-direk/?originalSubdomain=uk)
 
