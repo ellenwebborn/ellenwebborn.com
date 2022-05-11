@@ -13,7 +13,8 @@ authors:
 publishDate: "May 2022"
 title: "Smart Energy Research Lab: Energy use in GB domestic buildings 2021"
 
-abstract: "Variation in annual, seasonal, and diurnal gas and electricity use with weather, building and occupant characteristics."
+abstract: "This report describes domestic gas and electricity energy use in Great Britain in 2021 based on data from the Smart Energy Research Lab (SERL) Observatory, which consists of smart meter and contextual data from approximately 13,000 homes that are broadly representative of the GB population in terms of region and Index of Multiple Deprivation1 (IMD) quintile. The report shows how
+residential energy use in GB varies over time (monthly over the year and halfhourly over the course of the day), with occupant characteristics (number of occupants, tenure), property characteristics (age, size, form, and Energy Performance Certificate (EPC)), by type of heating system, presence of solar panels and of electric vehicles, and by weather, region and IMD quintile."
 featured: false
 image: 
   focal_point: "Center"
@@ -52,6 +53,4 @@ url_source: ""
 url_video: ""
 ---
 
-This report describes domestic gas and electricity energy use in Great Britain in 2021 based on data from the Smart Energy Research Lab (SERL) Observatory, which consists of smart meter and contextual data from approximately 13,000 homes that are broadly representative of the GB population in terms of region and Index of Multiple Deprivation1 (IMD) quintile. The report shows how
-residential energy use in GB varies over time (monthly over the year and halfhourly over the course of the day), with occupant characteristics (number of occupants, tenure), property characteristics (age, size, form, and Energy Performance Certificate (EPC)), by type of heating system, presence of solar panels and of electric vehicles, and by weather, region and IMD quintile.
 
