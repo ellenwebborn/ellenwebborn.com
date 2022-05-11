@@ -45,7 +45,7 @@ links:
 url_preprint: ""
 url_code: ""
 url_dataset: ""
-url_pdf: "https://discovery.ucl.ac.uk/id/eprint/10148066/1/SERL%20Stats%20Report%201.pdf"
+url_pdf: "https://serl.ac.uk/key-documents/reports/"
 url_poster: ""
 url_project: ""
 url_slides: ""
