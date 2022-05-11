@@ -16,6 +16,7 @@ title: "Smart Energy Research Lab: Energy use in GB domestic buildings 2021"
 abstract: "Variation in annual, seasonal, and diurnal gas and electricity use with weather, building and occupant characteristics."
 featured: false
 image: 
+  focal_point: "Center"
 projects: []
 tags: 
 - Building
@@ -43,7 +44,7 @@ links:
 url_preprint: ""
 url_code: ""
 url_dataset: ""
-url_pdf: "https://discovery.ucl.ac.uk/id/eprint/10148066/"
+url_pdf: "https://discovery.ucl.ac.uk/id/eprint/10148066/1/SERL%20Stats%20Report%201.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
