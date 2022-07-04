@@ -30,6 +30,12 @@ We currently meet online every 4 weeks on Thursdays at 1-2pm UK time. The idea i
 
 Some talk materials are in our [Github repository](https://github.com/ellenwebborn/bseeR_user_group). Those that can only be shared with group members will be uploaded where possible to our Microsoft Teams group. Contact me to join the group and get a link to the MS Teams group.
 
+
+## UCL R User Group end-of-year Meetup
+
+Join us on Wednesday 6th July for an exciting talk from Victoria and Albert Museum's Bhavesh Shah on his work as a data scientist using R. We'll also be hosting a peer-programming session for R users to bring their code for help and feedback. Should be a great opportunity to meet other R users, find out how other people code and improve or get help with your code. Plenty of refreshments for all those who can join us in person. For all the details and to sign up check out https://www.eventbrite.com/e/ucl-r-user-group-end-of-year-meetup-tickets-379017049197 
+
+
 ## 2021/22 events: online at 1pm every 4th Thursday of term (approximately)
 
 Date (2021) | Title | Speaker(s)
@@ -41,7 +47,7 @@ Date (2021) | Title | Speaker(s)
 27th Jan|*The use of R in developing analytical literacy for policy* | [Ine Steenmans](https://iris.ucl.ac.uk/iris/browse/profile?upi=ISTEE12)
 23rd Feb|*Working with data: Introducing and comparing data.table and dplyr* | [Ellen Webborn](https://www.ellenwebborn.com) & [Jonathan Bourne](https://www.ucl.ac.uk/bartlett/energy/people/mphilphd-students/jonathan-bourne)
 24th Mar| *Parallel R*| [Ed Lowther](https://edlowther.github.io/)
-19th May | *R and data science in the V&A Museum Preventive Conservation Department* | [Bhavesh Shah](https://www.vam.ac.uk/blog/author/bhavesh-shah)
+
 
 \* 1-2pm Tuesday 26th October at the UCL Student Centre (inside on the [main steps](https://www.breeam.com/case-studies/education/the-student-centre-ucl/). An informal, bring-your-own-lunch get-together, with cake. 
 
