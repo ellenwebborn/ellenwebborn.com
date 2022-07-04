@@ -31,9 +31,9 @@ We currently meet online every 4 weeks on Thursdays at 1-2pm UK time. The idea i
 Some talk materials are in our [Github repository](https://github.com/ellenwebborn/bseeR_user_group). Those that can only be shared with group members will be uploaded where possible to our Microsoft Teams group. Contact me to join the group and get a link to the MS Teams group.
 
 
-## UCL R User Group end-of-year Meetup
+## UCL R User Group end-of-year Meetup Wednesday 6th July 2022
 
-Join us on Wednesday 6th July for an exciting talk from Victoria and Albert Museum's Bhavesh Shah on his work as a data scientist using R. We'll also be hosting a peer-programming session for R users to bring their code for help and feedback. Should be a great opportunity to meet other R users, find out how other people code and improve or get help with your code. Plenty of refreshments for all those who can join us in person. For all the details and to sign up check out https://www.eventbrite.com/e/ucl-r-user-group-end-of-year-meetup-tickets-379017049197 
+Join us for an exciting talk from Victoria and Albert Museum's [Bhavesh Shah](https://www.linkedin.com/in/bhavesh-shah-21700330/?originalSubdomain=uk) on his work as a data scientist using R. We'll also be hosting a peer-programming session for R users to bring their code for help and feedback. Should be a great opportunity to meet other R users, find out how other people code and improve or get help with your code. Plenty of refreshments for all those who can join us in person. For all the details and to sign up check out https://www.eventbrite.com/e/ucl-r-user-group-end-of-year-meetup-tickets-379017049197 
 
 
 ## 2021/22 events: online at 1pm every 4th Thursday of term (approximately)
