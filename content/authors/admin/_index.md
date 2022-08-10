@@ -21,11 +21,11 @@ interests:
 - Demand response
 - Energy consumption patterns
 - Fuel poverty
-name: Ellen Webborn
+name: Ellen Zapata-Webborn
 organizations:
 - name: University College London
   url: ""
-role: Research Associate
+role: Senior Research Fellow
 social:
 - icon: envelope
   icon_pack: fas
