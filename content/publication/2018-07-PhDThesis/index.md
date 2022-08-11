@@ -3,7 +3,7 @@ date: "2018-07-01T00:00:00"
 publication_types:
 - "0"
 authors:
-- admin
+- Ellen Webborn
 publishDate: "2018-07-01T00:00:00"
 title: "The dynamics of thermostatically controlled loads for power system frequency control"
 publication: "PhD Thesis. University of Warwick, Centre for Complexity Science."

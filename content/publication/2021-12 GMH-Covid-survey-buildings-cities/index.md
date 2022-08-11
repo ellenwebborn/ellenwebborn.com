@@ -7,7 +7,7 @@ authors:
 - Nicole E Watson
 - Kenan Direk
 - Eoghan McKenna
-- admin
+- Ellen Webborn
 - Frances Hollick
 - Simon Elam
 - Tadj Oreszczyn

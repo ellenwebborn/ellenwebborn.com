@@ -3,7 +3,7 @@ date: "2019-06-14T00:00:00"
 publication_types:
 - "2"
 authors:
-- admin
+- Ellen Webborn
 publishDate: "2019-06-14T00:00:00"
 title: "Natural Heterogeneity Prevents Synchronization of Fridges With Deterministic Frequency Control"
 publication: "_IEEE Access_, Vol 7"

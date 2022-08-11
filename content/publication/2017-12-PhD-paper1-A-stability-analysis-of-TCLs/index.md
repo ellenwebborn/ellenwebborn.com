@@ -3,7 +3,7 @@ date: "2017-12-06T00:00:00"
 publication_types:
 - "2"
 authors:
-- admin
+- Ellen Webborn
 - Robert S. MacKay
 publishDate: "2017-12-06T00:00:00"
 title: "A Stability Analysis of Thermostatically Controlled Loads for Power System Frequency Control"

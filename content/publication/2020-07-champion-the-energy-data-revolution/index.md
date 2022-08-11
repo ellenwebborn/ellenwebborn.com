@@ -3,7 +3,7 @@ date: "2019-07-15T00:00:00"
 publication_types:
 - "2"
 authors:
-- admin
+- Ellen Webborn
 - Tadj Oreszczyn
 publishDate: "2019-07-15T00:00:00"
 title: "Champion the energy data revolution"

@@ -5,7 +5,7 @@ publication_types:
 authors:
 - Eoghan McKenna
 - Jessica Few
-- admin
+- Ellen Webborn
 - Ben Anderson
 - Simon Elam
 - David Shipworth
