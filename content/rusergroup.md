@@ -1,4 +1,4 @@
-+++
+---
 # Projects widget.
 widget = "rusergroup"
 active = false
@@ -22,7 +22,7 @@ weight = 5
 # Legend: 0 = list, 1 = cards.
 # view = 1
 
-+++
+---
 
 The UCL R user group is a friendly group for R users to meet, hear a talk and discuss R questions. Originally set up in 2019 for staff and postgrad students at the Bartlett School of Environment, Energy and Resources [(BSEER)](https://www.ucl.ac.uk/bartlett/bartlett-school-environment-energy-and-resources), we've recently opened up the group to the wider R community at UCL and beyond. 
 
