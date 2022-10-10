@@ -24,18 +24,18 @@ weight = 5
 
 +++
 
-The UCL R user group is a friendly group for R users to meet, hear a talk and discuss R questions. Originally set up in 2019 for staff and postgrad students at the Bartlett School of Environment, Energy and Resources [(BSEER)](https://www.ucl.ac.uk/bartlett/bartlett-school-environment-energy-and-resources), we've recently opened up the group to the wider R community at UCL and beyond. 
+The UCL R user group is a friendly group for R users to meet, hear a talk and discuss R questions. Originally set up in 2019 for staff and postgrad students at the Bartlett School of Environment, Energy and Resources [(BSEER)](https://www.ucl.ac.uk/bartlett/bartlett-school-environment-energy-and-resources), in 2020 we expanded to welcome the wider R community at UCL and beyond. 
 
-We currently meet online every 4 weeks on Thursdays at 1-2pm UK time. The idea is to create a friendly space for R users to come together, listen to a talk (typically 20-40 minutes) and ask questions. We aim to have a variety of talks to benefit beginners and more advanced R users. To join the group email e.webborn@ucl.ac.uk
+We currently meet online every 4 weeks on Thursdays at 1-2pm UK time online and in person. The idea is to create a friendly space for R users to come together, listen to a talk (typically 20-45 minutes) and ask questions. We aim to have a variety of talks to benefit beginners and more advanced R users. To join the group email e.webborn@ucl.ac.uk
 
 Some talk materials are in our [Github repository](https://github.com/ellenwebborn/bseeR_user_group). Those that can only be shared with group members will be uploaded where possible to our Microsoft Teams group. Contact me to join the group and get a link to the MS Teams group.
 
 
 ## 2022/23 events: online at 1pm every 4th Thursday of term (approximately)
 
-Date (2021) | Title | Speaker(s)
+Date (2022) | Title | Speaker(s)
 -- | -- | --
-13th Oct| *Scientific writing and reproducible research with R Markdown* | [Alasdair Warwick]
+13th Oct| *Scientific writing and reproducible research with R Markdown* | Alasdair Warwick
 10th Nov| *Using R to study hospital use for physical health in people with severe mental illness* | [Naomi Launders](https://www.linkedin.com/in/naomi-launders-b66305142/?originalSubdomain=uk)
 8th Dec| *The false positive risk: a shiny app* | [David Colquhoun](https://en.wikipedia.org/wiki/David_Colquhoun)
 
