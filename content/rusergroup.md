@@ -33,13 +33,14 @@ Some talk materials are in our [Github repository](https://github.com/ellenwebbo
 
 ## 2022/23 events: online at 1pm every 4th Thursday of term (approximately)
 
-Date (2022) | Title | Speaker(s)
+Date | Title | Speaker(s)
 -- | -- | --
-13th Oct| *Scientific writing and reproducible research with R Markdown* | Alasdair Warwick
-10th Nov| *Using R to study hospital use for physical health in people with severe mental illness* | [Naomi Launders](https://www.linkedin.com/in/naomi-launders-b66305142/?originalSubdomain=uk)
-8th Dec| *The false positive risk: a shiny app* | [David Colquhoun](https://en.wikipedia.org/wiki/David_Colquhoun)
-
-
+13th Oct 2022| *Scientific writing and reproducible research with R Markdown* | Alasdair Warwick
+10th Nov 2022| *Using R to study hospital use for physical health in people with severe mental illness* | [Naomi Launders](https://www.linkedin.com/in/naomi-launders-b66305142/?originalSubdomain=uk)
+8th Dec 2022| *The false positive risk: a shiny app* | [David Colquhoun](https://en.wikipedia.org/wiki/David_Colquhoun)
+19th Jan 2023| *Dynamic documents using Quarto* | [Ajay Koli](https://koliajay.netlify.app/)
+16th Feb 2023| *Using the UK Government People’s Survey to Understand the Experiences of Civil Servants who identify as Lesbian, Gay or Bisexual – with the help of R!* | [Tyler Elliott](https://www.linkedin.com/in/tyler-elliott-50230173/?originalSubdomain=uk)
+16th Mar 2023| *title* | [TBA]
 
 ## UCL R User Group end-of-year Meetup Wednesday 6th July 2022
 
