@@ -50,4 +50,4 @@ user_groups:
 
 I am a Senior Research Fellow in Data Science and End Use Energy Demand at the [UCL Energy Institute](https://www.ucl.ac.uk/bartlett/energy/) working on the [Smart Energy Research Lab (SERL)](https://www.serl.ac.uk) project - developing a longitudinal [smart meter dataset](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=8666) (with contextual data) for UK-based researchers.
 
-
+I'm currently advertising a fully-funded **PhD scholarship** on **Energy demand flexibility identification and solutions** for data-scientist energy enthusiasts. All details and links to more PhD projects on offer within my group and the UCL Energy Institute [here](https://www.ucl.ac.uk/bartlett/energy/news/2022/dec/fully-funded-phd-studentship-energy-demand-flexibility-identification-and-solutions). Feel free to email me with any questions. Deadline 12 noon 26th January 2023. 
