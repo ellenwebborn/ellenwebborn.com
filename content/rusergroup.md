@@ -39,7 +39,7 @@ Talk recordings are available to group members on our Microsoft Teams group. Con
 ## 2022/23 events: online at 1pm every 4th Thursday of term (approximately)
 
 | Date          | Title                                                                                                                                                     | Speaker(s)                                                                                   |
-|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|------------------------|------------------------|------------------------|
 | 13th Oct 2022 | *Scientific writing and reproducible research with R Markdown*                                                                                            | Alasdair Warwick                                                                             |
 | 10th Nov 2022 | *Using R to study hospital use for physical health in people with severe mental illness*                                                                  | [Naomi Launders](https://www.linkedin.com/in/naomi-launders-b66305142/?originalSubdomain=uk) |
 | 8th Dec 2022  | *The false positive risk: a shiny app*                                                                                                                    | [David Colquhoun](https://en.wikipedia.org/wiki/David_Colquhoun)                             |
@@ -54,7 +54,7 @@ Join us for an exciting talk from Victoria and Albert Museum's [Bhavesh Shah](ht
 ## 2021/22 events: online at 1pm every 4th Thursday of term (approximately)
 
 | Date (2021) | Title                                                                                  | Speaker(s)                                                                                                                                        |
-|-------------|----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+|------------------------|------------------------|------------------------|
 | 28th Oct    | *Introducing the group and the organisers*                                             | [Ellen Webborn](https://www.ellenwebborn.com) & [Scott Orr](https://www.ucl.ac.uk/bartlett/heritage/people/scott-allan-orr)                       |
 | 2nd Nov     | *In-person SOCIAL*\*                                                                   | Organised by Ellen and Scott                                                                                                                      |
 | 18th Nov    | *Building a stochastic model of COVID-19 outbreaks in homeless accommodation settings* | [Dan Lewer](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30396-9/fulltext)                                                  |
@@ -72,13 +72,13 @@ In June 2021 the UCL R User Group held our the first [R Project Showcase](https:
 ## 2020/21 talks (1pm every 4th Thursday)
 
 | Date (2020) | Title                                                                                                                         | Speaker(s)                                                                                                                                     |
-|-------------|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+|------------------------|------------------------|------------------------|
 | 1st Oct     | *Teaching R remotely*                                                                                                         | [Ayrton Bourn](https://www.linkedin.com/in/ayrton-bourn/?originalSubdomain=uk)                                                                 |
 | 29th Oct    | [*Working with data: Introducing and comparing data.table and dplyr*](https://github.com/ellenwebborn/bseeR_user_group)       | [Ellen Webborn](https://www.ellenwebborn.com) & [Jonno Bourne](https://www.ucl.ac.uk/bartlett/energy/people/mphilphd-students/jonathan-bourne) |
 | 26th Nov    | [*Versioning code with Git*](https://github.com/IHI-Code-Club/git/blob/master/2019-12-12_CC_Git-GitHub_Christmas_Special.pdf) | [Kenan Direk](https://www.linkedin.com/in/kenan-direk/?originalSubdomain=uk)                                                                   |
 
 | Date (2021) | Title                                                                                                   | Speaker(s)                                                                                                                         |
-|-------------|---------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
+|------------------------|------------------------|------------------------|
 | 28th Jan    | [*Getting help in R*\*](https://github.com/EllaKaye/Rladies-Coventry-getting-help-in-R)                 | [Ella Kaye](ellakaye.rbind.io)                                                                                                     |
 | 18th Feb    | *The graph is always greener: Making (better) use of colour in R*                                       | [Scott Orr](https://www.ucl.ac.uk/bartlett/heritage/people/scott-allan-orr)                                                        |
 | 25th Mar    | [*Working with large datasets in R*](https://bin-chi.github.io/Big-Data/)                               | [Bin Chi](https://www.linkedin.com/in/bin-chi-093062165/?originalSubdomain=uk)                                                     |
