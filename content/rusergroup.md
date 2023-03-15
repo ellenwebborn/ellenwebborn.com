@@ -48,7 +48,7 @@ Talk recordings are available to group members on our Microsoft Teams group. Con
 | 8th Dec 2022  | *The false positive risk: a shiny app*                                                                                                                    | [David Colquhoun](https://en.wikipedia.org/wiki/David_Colquhoun)                             |
 | 19th Jan 2023 | *Dynamic documents using Quarto*                                                                                                                          | [Ajay Koli](https://koliajay.netlify.app/)                                                   |
 | 16th Feb 2023 | *Using the UK Government People's Survey to Understand the Experiences of Civil Servants who identify as Lesbian, Gay or Bisexual -- with the help of R!* | [Tyler Elliott](https://www.linkedin.com/in/tyler-elliott-50230173/?originalSubdomain=uk)    |
-| 16th Mar 2023 | *Visualizing choice experiment data in ggplot*                                                                                                            | [Nicole Watson](https://www.linkedin.com/in/nicolewatson310/?originalSubdomain=uk)           |
+| 23rd Mar 2023 | *Visualizing choice experiment data in ggplot*                                                                                                            | [Nicole Watson](https://www.linkedin.com/in/nicolewatson310/?originalSubdomain=uk)           |
 
 ## UCL R User Group end-of-year Meetup Wednesday 6th July 2022
 
