@@ -50,6 +50,10 @@ Talk recordings are available to group members on our Microsoft Teams group. Con
 | 16th Feb 2023 | *Using the UK Government People's Survey to Understand the Experiences of Civil Servants who identify as Lesbian, Gay or Bisexual -- with the help of R!* | [Tyler Elliott](https://www.linkedin.com/in/tyler-elliott-50230173/?originalSubdomain=uk)    |
 | 23rd Mar 2023 | *R (or Python) for Open and Reproducible Science*                                                         | [Andrew Mitchell](https://andrew-mitchell.netlify.app/)  
 | TBD | *Visualizing choice experiment data in ggplot*                        | [Nicole Watson](https://www.linkedin.com/in/nicolewatson310/?originalSubdomain=uk)           |
+| 25th May 2023 | *Using predictive modelling techniques to study the impact of COVID-19 on domestic energy consumption in GB (and how to make some nice-looking plots)* | [Ellen Zapata-Webborn](https://www.ellenwebborn.com/) |
+| 22nd June 2023 | *An introduction to testing R code* | [Ed Lowther](https://edlowther.github.io/) |
+
+
 
 ## UCL R User Group end-of-year Meetup Wednesday 6th July 2022
 
