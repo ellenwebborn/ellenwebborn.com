@@ -4,22 +4,22 @@ publication_types:
 - "2"
 authors:
 - Ellen Zapata-Webborn
+- Eoghan McKenna
 - Martin Pullinger
 - Callum Cheshire
 - Harry Masters
 - Alex Whittaker
-- Eoghan McKenna
 - Jessica Few
 - Simon Elam
 - Tadj Oreszczyn
 
-publishDate: "31 March 2023"
+publishDate: "3 July 2023"
 
-title: "The short- and long-term impacts of COVID-19 on household energy consumption in England and Wales"
+title: "The impact of COVID-19 on household energy consumption in England and Wales from April 2020 – March 2022"
 
 publication: "In submission"
 
-abstract: "The COVID-19 pandemic changed the way many people lived, worked, and studied around the world, both during and after the lockdowns. Changes to daily routines affected domestic electricity and gas use. While early studies estimated the impact of the first national lockdown, the long-term effects remain under-researched. In this paper we analyse how domestic electricity and gas consumption changed in the two years since the first UK lockdown in terms of both total demand and timing of demand. We develop counterfactual (predictive) models using elastic net regression, neural networks, and extreme gradient boosting and compare observed energy use with predicted use given weather and calendar variables for each household (508 for electricity, 326 for gas). We apply cluster analysis to identify common daily energy demand profiles and observe the changes in the proportions of households in each cluster for 3540 (electricity) and 2850 (gas) households between January 2020 and March 2022. We compare the results for different subsamples, such as those with and without children or working adults, households with different levels of financial wellbeing, and households in different Energy Performance Certificate (EPC) bands. We find that the pandemic increased electricity consumption throughout the two-year period, and increased gas consumption during the winter lockdowns. Demand profiles for weekdays became more similar to those on weekends for households with children or with adults in work. On average electricity consumption was still around 5% higher than predicted at the start of 2022, largely due to increased use in households with children. On average, gas consumption was lower than predicted during winter 2021/22, which may be attributable to rising gas prices."
+abstract: "The COVID-19 pandemic changed the way people lived, worked, and studied around the world, with direct consequences for domestic energy use. This study assesses the impact of COVID-19 lockdowns in the first two years of the pandemic on household electricity and gas use in England and Wales. Using data for 508 (electricity) and 326 (gas) homes, elastic net regression, neural network and extreme gradient boosting predictive models were trained and tested on pre-pandemic data. The most accurate model for each household was used to create counterfactuals (predictions in the absence of COVID-19) against which observed pandemic energy use was compared. Median monthly model error (CV(RMSE)) was 3.86% (electricity) and 3.19% (gas) and bias (NMBE) was 0.21% (electricity) and -0.10% (gas). Our analysis showed that on average (electricity; gas) consumption increased by (7.8%; 5.7%) in year 1 of the pandemic and by (2.2%; 0.2%) in year 2. The greatest increases were in the winter lockdown (January – March 2021) by 11.6% and 9.0% for electricity and gas, respectively. At the start of 2022 electricity use remained 2.0% higher while gas use was around 1.9% lower than predicted. Households with children showed the greatest increase in electricity consumption during lockdowns, followed by those with adults in work. Wealthier households increased their electricity consumption by more than the less wealthy and continued to use more than predicted throughout the two-year period while the less wealthy returned to pre-pandemic or lower consumption from summer 2021. Low dwelling efficiency was associated with a greater increase in energy consumption during the pandemic. Additionally, this study shows the value of different machine learning techniques for counterfactual modelling at the individual-dwelling level, and our approach can be used to robustly estimate the impact of other events and interventions."
 
 featured: false
 image: 
@@ -27,12 +27,11 @@ image:
 projects: []
 tags: 
 - COVID-19
-- cluster analysis
 - predictive modelling
 - machine learning
 - elastic net regression
 - extreme gradient boosting
-- neural
+- neural network
 - smart meter data
 - energy data
 - energy demand
