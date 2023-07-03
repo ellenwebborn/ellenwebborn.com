@@ -1,5 +1,5 @@
 ---
-date: "2023-03-21T00:00:00"
+date: "2023-07-03T00:00:00"
 publication_types:
 - "2"
 authors:
@@ -13,7 +13,7 @@ authors:
 - Simon Elam
 - Tadj Oreszczyn
 
-publishDate: "3 July 2023"
+publishDate: ""
 
 title: "The impact of COVID-19 on household energy consumption in England and Wales from April 2020 – March 2022"
 
