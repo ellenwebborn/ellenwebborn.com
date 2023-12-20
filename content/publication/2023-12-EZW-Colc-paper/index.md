@@ -17,11 +17,11 @@ authors:
 - Alex Whittaker
 
 
-publishDate: ""
+publishDate: "TBD"
 
 title: "Winter demand falls as fuel bills rise: Understanding the energy impacts of the cost-of-living crisis on British households"
 
-publication: ""
+publication: "TBD"
 
 abstract: "In October 2022 British households entered a heating season amidst exceptionally high energy prices – squeezing household incomes and increasing fuel poverty. This study analyses electricity and gas consumption in 5594 households from October 2022 – March 2023 using XGBoost counterfactual models trained on historic data. With survey data collected in early 2023 we investigate how consumption reduction correlated with energy-saving actions, household and dwelling characteristics, and indicators of underheating and fuel poverty.
 
