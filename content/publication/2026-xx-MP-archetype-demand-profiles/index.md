@@ -40,7 +40,6 @@ tags:
 slides: 
 summary: 
 links:
-- name: Pre-print
 url_preprint: https://www.preprints.org/frontend/manuscript/bf48aa212b4b48558e193b7a3e723d50/download_pub
 url_code: ""
 url_dataset: ""
