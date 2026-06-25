@@ -1,5 +1,5 @@
 ---
-date: "2026-06-023T00:00:00"
+date: "2026-06-23T00:00:00"
 publication_types:
 - "2"
 authors:
